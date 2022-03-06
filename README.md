@@ -6,8 +6,8 @@
 
 ## Olá! Meu nome é Jhonatan Herman e sou atualmente estudante de Engenharia da programação
 
-- 🔭 Atualmente sou estudante de Engenharia da Computação
-- 🌱 Estudando Flutter/Dart, Java e Ubuntu
+- 🔭 Atualmente sou estudante de Engenharia da Computação.
+- 🌱 Estudando Flutter/Dart, Java e Ubuntu.
 
 <div align="center">
   <a href="https://github.com/JhonatanHerman">
