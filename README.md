@@ -8,7 +8,7 @@
 
 - Atualmente sou estudante de Engenharia da Computação;
 - Estudando Java e Linux;
-- Atualmente estagiando como Suporte Help Desk.
+- Estagiário em Suporte Help Desk.
 
 <div align="center">
   <a href="https://github.com/JhonatanHerman">
