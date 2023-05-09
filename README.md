@@ -4,10 +4,10 @@
 
 
 
-## Olá! Meu nome é Jhonatan Herman e sou atualmente estudante de Engenharia de Software
+## Olá! Meu nome é Jhonatan Herman, sou estudante de Engenharia de Software
 
-- Atualmente sou estudante de Engenharia da Software;
-- Estudando Gestão de TI e Cloud;
+
+- Estudando C#;
 - Estagiário em Suporte Help Desk.
 
 <div align="center">
