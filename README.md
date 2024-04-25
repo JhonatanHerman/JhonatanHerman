@@ -34,8 +34,6 @@ Dentre os demais conhecimentos que adquiri ao longo dos meus estudos, tenho conh
   <img align="center" alt="Jhow-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   
   
-  <img align="right" alt="Jhow-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/949824248413831168/949824445600657448/download20220306212210.png">
-  
     
 
   
